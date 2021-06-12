@@ -1,1 +1,2 @@
-In the chapter 3 adding new line
+In the chapter 3 adding new line.
+Now I am adding a new line.
